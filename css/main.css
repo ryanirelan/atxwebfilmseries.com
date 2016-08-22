@@ -82,6 +82,9 @@ dd.slot-description {
 }
 
 /* Helper Classes */
+.series-title {
+    display:none;
+}
 .center {
     text-align: center;
 }
