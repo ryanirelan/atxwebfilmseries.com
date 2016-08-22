@@ -58,18 +58,29 @@ textarea {
 
 html, body {
     border-top: 2px solid rgb(236,33,35);
+    font-family: "Whitney A", "Whitney B";
+    font-style: normal;
+    font-weight: 400;
 }
-
 
 header h1 {
     text-align: center;
         margin-top: 1em;
 }
 
-header img {
- 
+dt {
+    text-align: center;
+    font-weight:bold;
+}
+dd.slot-overview {
+    text-align:center;
+    margin-bottom: 0.5em;
+}
+dd.slot-description {
+    margin-bottom:1em;
 }
 
+/* Helper Classes */
 .center {
     text-align: center;
 }
