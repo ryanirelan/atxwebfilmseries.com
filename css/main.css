@@ -105,6 +105,10 @@ dd.slot-description {
     height:100%;
 }
 
+.button {
+    font-size: 1em;
+    padding: 1em;
+}
 /* Older browsers */
   html { font-size: 16px; }
   
